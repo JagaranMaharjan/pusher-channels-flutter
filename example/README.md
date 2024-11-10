@@ -1,40 +1,16 @@
-# pusher_channels_flutter_example
+# example
 
-Demonstrates how to use the pusher_channels_flutter plugin
-at https://github.com/pusher/pusher-channels-flutter
+A new Flutter project.
 
 ## Getting Started
 
-This is a minimal Flutter example project for [Pusher Channels](https://pusher.com/channels). Please note that it is not production ready.
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
-For tutorials and more in-depth information about Pusher Channels, visit our [official docs](https://pusher.com/docs/channels).
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## Notes
-
-Please note that when subscribing to a private or presence
-channel, you need to enable authentication,
-this can be done by setting the `authEndPoint` parameter
-(see `main.dart`). For setting up an auth endpoint please
-check:
-
-https://github.com/pusher/pusher-channels-flutter#authendpoint-string
-
-It's also possible to authenticate in the app itself, by
-implementing the `onAuthorizer` callback, for more information see here:
-
-https://github.com/pusher/pusher-channels-flutter#onauthorizer
-
-## Communication
-
-- If you have found a bug, please open an issue.
-- If you have a feature request, please open an issue.
-- If you want to contribute, please submit a pull request.
-
-## Credits
-
-PusherChannelsFlutter is owned and maintained by [Pusher](https://pusher.com).
-
-## License
-
-PusherChannelsFlutter is released under the MIT license. See [LICENSE](https://github.com/pusher/pusher-channels-flutter/blob/master/LICENSE) for details.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
